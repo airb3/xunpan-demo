@@ -1,1 +1,0 @@
-import{_ as e}from"./index.6884eaf1.js";const r={};function n(_,a){return" \u6296\u97F3\u5E73\u53F0 "}var s=e(r,[["render",n],["__file","/Users/yangyang/douxiaobao/src/views/Douyin/Index.vue"]]);export{s as default};

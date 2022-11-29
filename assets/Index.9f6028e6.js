@@ -1,0 +1,1 @@
+import{_ as e}from"./index.3c167ab8.js";const r={};function n(_,a){return" B\u7AD9\u5E73\u53F0 "}var s=e(r,[["render",n],["__file","/Users/yangyang/douxiaobao/src/views/Bilibili/Index.vue"]]);export{s as default};
