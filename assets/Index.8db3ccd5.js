@@ -1,1 +1,0 @@
-import{d as n,c as e,A as s,o as t}from"./index.1a2bdb2a.js";const o={class:"passport"},p=n({__name:"Index",setup(a){return(async()=>{s().get_user_info("yangyang","yangyang")})(),(r,_)=>(t(),e("div",o," \u767B\u5F55 "))}});export{p as default};

@@ -1,0 +1,1 @@
+import{_ as e,d as s,c as n,A as a,o}from"./index.6884eaf1.js";const t={class:"passport"},r=s({__name:"Index",setup(_){return(async()=>{a().get_user_info("yangyang","yangyang")})(),(i,p)=>(o(),n("div",t," \u767B\u5F55 "))}});var d=e(r,[["__file","/Users/yangyang/douxiaobao/src/views/Passport/Index.vue"]]);export{d as default};
